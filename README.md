@@ -32,9 +32,7 @@
 
 ![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality.png.png)
 
-![Testing_Functions](Evaluation_Evidence/Testing_functionality.png.png)
-
-![Testing_Functions](Evaluation_Evidence/Testing_functionality2.png.png)
+![Testing_Functions](valuation_Evidence/Testing_functionality2.png.png)
 
 ![Evaluation_Functions](Testing_functionality3.png.png)
 
