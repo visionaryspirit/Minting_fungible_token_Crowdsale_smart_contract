@@ -15,6 +15,7 @@
 ![KaseCoin Deployer compiled](Evaluation_Evidence/KaseiCoin_Deployer_compiled.png.png)
 
 ## Ganache accounts and Metamask integration
+
 ![Evaluation_Evidence](Evaluation_Evidence/ganache_accounts_used.png.png)
 
 ![Evaluation_Evidence](Evaluation_Evidence/deployed_testing_functions2.png.png)
@@ -40,5 +41,4 @@
 ![Evaluation_Evidence](Testing_functionality_metamask_confirmation.png.png)
 
 ![Evaluation_Evidence](Using_metamask_addresses_testing.png.png)
-
 
