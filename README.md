@@ -26,13 +26,13 @@
 
 ## Ganache confirmation contracts creation 
 
-![Ganache confirmation contracts creation](Evaluation_Evidence/deployed_contracts_creation_ganache.png)
+![Ganache confirmation contracts creation](Evaluation_Evidence/deployed_contracts_creation_ganache.png.png)
 
 ## Testing functionality after deployment of contracts 
 
 ![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality.png.png)
 
-![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality2.pnh.png)
+![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality2.png.png)
 
 ![Evaluation_Evidence](Testing_functionality3.png.png)
 
