@@ -30,15 +30,4 @@
 
 ## Testing functionality after deployment of contracts 
 
-![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality.png.png)
-
-![Testing_Functions](valuation_Evidence/Testing_functionality2.png.png)
-
-![Evaluation_Functions](Testing_functionality3.png.png)
-
-![Evaluation_Functions](Testing_functionality4.png.png)
-
-![Evaluation_Functions](Testing_functionality_metamask_confirmation.png.png)
-
-![Evaluation_Functions](Using_metamask_addresses_testing.png.png)
 
