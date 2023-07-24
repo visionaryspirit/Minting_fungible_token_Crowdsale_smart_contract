@@ -30,16 +30,16 @@
 
 ## Testing functionality after deployment of contracts 
 
-![Evaluation_Evidence]Evaluation_Evidence](Evaluation_Evidence/Testing_functionality.png.png)
+![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality.png.png)
 
 ![Evaluation_Evidence](Evaluation_Evidence/Testing_functionality2.pnh.png)
 
-![Evaluation_Evidence](/Testing_functionality3.png.png)
+![Evaluation_Evidence](Testing_functionality3.png.png)
 
-![Evaluation_Evidence](/Testing_functionality4.png.png)
+![Evaluation_Evidence](Testing_functionality4.png.png)
 
-![Evaluation_Evidence](/Testing_functionality_metamask_confirmation.png.png)
+![Evaluation_Evidence](Testing_functionality_metamask_confirmation.png.png)
 
-![Evaluation_Evidence](/Using_metamask_addresses_testing.png.png)
+![Evaluation_Evidence](Using_metamask_addresses_testing.png.png)
 
 
