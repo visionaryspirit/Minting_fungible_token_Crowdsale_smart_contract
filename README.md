@@ -29,7 +29,6 @@
 ![Ganache confirmation contracts creation](Evaluation_Evidence/deployed_contracts_creation_ganache.png.png)
 
 ## Testing functionality after deployment of contracts 
-
 ![Testing Functionality](./Evaluation_Evidence/Testing_functionality.png.png)
 
 ![Testing Functionality 2](./Evaluation_Evidence/Testing_functionality2.png)
